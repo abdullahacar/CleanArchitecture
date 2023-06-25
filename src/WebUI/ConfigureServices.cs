@@ -2,8 +2,6 @@
 using CleanArchitecture.Infrastructure.Persistence;
 using CleanArchitecture.WebUI.Services;
 using Microsoft.AspNetCore.Mvc;
-using NSwag;
-using NSwag.Generation.Processors.Security;
 using ZymLabs.NSwag.FluentValidation;
 
 namespace Microsoft.Extensions.DependencyInjection;
